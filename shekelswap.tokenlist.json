@@ -20,6 +20,14 @@
             "decimals": 18,
             "chainId": 534352,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "aETH",
+            "address": "0xE6F429bC98359452a76c40c8e0b48f418B7661ac",
+            "symbol": "aETH",
+            "decimals": 18,
+            "chainId": 534352,
+            "logoURI": "https://i.ibb.co/fN8fYgB/a-ETH-logo.png"
         }
     ]
   }
