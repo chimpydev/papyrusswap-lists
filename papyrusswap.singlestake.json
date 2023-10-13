@@ -1,0 +1,19 @@
+{
+  "name": "ShekelSwap Syrups",
+  "timestamp": "2023-10-01T02:48:18.101Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 24
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": [
+    "shekelswap",
+    "default"
+  ],
+  "active": [
+  ],
+  "closed": [
+  ]
+}
