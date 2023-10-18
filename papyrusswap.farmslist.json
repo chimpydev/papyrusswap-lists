@@ -4,17 +4,36 @@
    "version":{
       "major":1,
       "minor":0,
-      "patch":25
+      "patch":26
    },
    "tags":{
       
    },
    "logoURI":"https://i.ibb.co/BrJtQBC/0xeca14fd925f0a64fc041d38653f25539000e7afa.png",
    "keywords":[
-      "shekelswap",
+      "papyrusswap",
       "default"
    ],
    "active":[
+      {
+         "tokens":[
+            "0x5300000000000000000000000000000000000004",
+            "0xEB466342C4d449BC9f53A865D5Cb90586f405215"
+         ],
+         "stakingRewardAddress":"0x4478c2a15E6D5EbA5F7681eC4d504035B3a7d5dB",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x5300000000000000000000000000000000000004",
+         "rate": 0,
+         "rewardsRatio1": 1,
+         "rewardsRatio2": 0,
+         "voteable": false,
+         "poolPid": 0,
+         "lpName": "ETH-axlUSDC",
+         "rewardToken":"0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
+         "pair":"0xCE21EE87F69C0982bF5597E953FfDc13f33178EE"
+      }
    ],
    "closed":[
    ]
