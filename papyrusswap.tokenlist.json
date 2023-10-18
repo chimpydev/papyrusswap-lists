@@ -9,7 +9,7 @@
     "tags": {},
     "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
     "keywords": [
-      "shekelswap",
+      "papyrusswap",
       "default"
     ],
     "tokens": [
@@ -28,6 +28,22 @@
             "decimals": 18,
             "chainId": 534352,
             "logoURI": "https://i.ibb.co/fN8fYgB/a-ETH-logo.png"
+        },
+        {
+            "name": "Axelar Wrapper USDC",
+            "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+            "symbol": "axlUSDC",
+            "decimals": 6,
+            "chainId": 534352,
+            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
+        },
+        {
+            "name": "Papyrus Token",
+            "address": "0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
+            "symbol": "PAPYRUS",
+            "decimals": 18,
+            "chainId": 534352,
+            "logoURI": "https://i.ibb.co/4JnhbFB/0x0fc479e2f9b7310bfb1db606cf565dea6910eedc.png"
         }
     ]
   }
