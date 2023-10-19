@@ -4,7 +4,7 @@
     "version": {
       "major": 1,
       "minor": 2,
-      "patch": 53
+      "patch": 54
     },
     "tags": {},
     "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -44,6 +44,30 @@
             "decimals": 18,
             "chainId": 534352,
             "logoURI": "https://i.ibb.co/4JnhbFB/0x0fc479e2f9b7310bfb1db606cf565dea6910eedc.png"
+        },
+        {
+            "name": "DAI Stablecoin",
+            "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 534352,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+        },
+        {
+            "name": "Tether USD",
+            "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 534352,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+        },
+        {
+            "name": "USDCoin",
+            "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 534352,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
         }
     ]
   }
