@@ -15,5 +15,31 @@
   "active": [
   ],
   "closed": [
+    {
+      "token": "0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
+      "stakingRewardAddress": "0xcb9665E990027e115ccF22230b042e4E7eaBFDB2",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "depFee": "0",
+      "burnFee": "2",
+      "baseToken": "0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
+      "rate": 0,
+      "ending": 1670921264,
+      "stakingToken": "0xf4BA885557b8E0dCE70e14CCD1a4A73E4a09793e"
+    },
+    {
+      "token": "0xf4BA885557b8E0dCE70e14CCD1a4A73E4a09793e",
+      "stakingRewardAddress": "0xE39226E0864252E0fC9bD668FB796FD63a1B75A4",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "depFee": "5",
+      "burnFee": "0",
+      "baseToken": "0xf4BA885557b8E0dCE70e14CCD1a4A73E4a09793e",
+      "rate": 0,
+      "ending": 1670921264,
+      "stakingToken": "0x5300000000000000000000000000000000000004"
+    }
   ]
 }
