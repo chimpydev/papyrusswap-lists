@@ -47,10 +47,10 @@
       "ended": false,
       "lp": "",
       "name": "",
-      "depFee": "5",
+      "depFee": "2",
       "burnFee": "0",
       "baseToken": "0xf4BA885557b8E0dCE70e14CCD1a4A73E4a09793e",
-      "rate": 750,
+      "rate": 1000,
       "ending": 1670921264,
       "stakingToken": "0xE6F429bC98359452a76c40c8e0b48f418B7661ac"
     }
