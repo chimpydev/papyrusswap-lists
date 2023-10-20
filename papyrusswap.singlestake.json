@@ -17,7 +17,7 @@
   "closed": [
     {
       "token": "0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
-      "stakingRewardAddress": "0xcb9665E990027e115ccF22230b042e4E7eaBFDB2",
+      "stakingRewardAddress": "0x6C02537d579C114A6f06699d9dcd0053800e7170",
       "ended": false,
       "lp": "",
       "name": "",
@@ -30,7 +30,7 @@
     },
     {
       "token": "0xf4BA885557b8E0dCE70e14CCD1a4A73E4a09793e",
-      "stakingRewardAddress": "0xE39226E0864252E0fC9bD668FB796FD63a1B75A4",
+      "stakingRewardAddress": "0x4238c696077210eb3470E126a40B3CCD1C887aeA",
       "ended": false,
       "lp": "",
       "name": "",
@@ -43,7 +43,7 @@
     },
     {
       "token": "0xf4BA885557b8E0dCE70e14CCD1a4A73E4a09793e",
-      "stakingRewardAddress": "0xE39226E0864252E0fC9bD668FB796FD63a1B71A4",
+      "stakingRewardAddress": "0xc3748f91291f83e35936c3FefC38868080903C6b",
       "ended": false,
       "lp": "",
       "name": "",
