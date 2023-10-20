@@ -4,7 +4,7 @@
    "version":{
       "major":1,
       "minor":0,
-      "patch":27
+      "patch":28
    },
    "tags":{
       
@@ -119,7 +119,7 @@
             "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97"
          ],
          "stakingRewardAddress":"0xeF8617da52742052AB79f8c74110D61f8A3000Eb",
-         "ended":false,
+         "ended":true,
          "lp":"",
          "name":"",
          "baseToken":"0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
@@ -138,7 +138,7 @@
             "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4"
          ],
          "stakingRewardAddress":"0x053EC655A21DE72507fA3FDB3c0224F9FA797E4C",
-         "ended":false,
+         "ended":true,
          "lp":"",
          "name":"",
          "baseToken":"0xEB466342C4d449BC9f53A865D5Cb90586f405215",
