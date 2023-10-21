@@ -13,8 +13,6 @@
     "default"
   ],
   "active": [
-  ],
-  "closed": [
     {
       "token": "0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
       "stakingRewardAddress": "0x6C02537d579C114A6f06699d9dcd0053800e7170",
@@ -54,5 +52,7 @@
       "ending": 1670921264,
       "stakingToken": "0xE6F429bC98359452a76c40c8e0b48f418B7661ac"
     }
+  ],
+  "closed": [
   ]
 }
