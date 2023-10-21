@@ -46,6 +46,14 @@
             "logoURI": "https://i.ibb.co/4JnhbFB/0x0fc479e2f9b7310bfb1db606cf565dea6910eedc.png"
         },
         {
+            "name": "Baby Scroll",
+            "address": "0x5431136817a5c3449F3057f8778bD971d8e48529",
+            "symbol": "BBSCROLL",
+            "decimals": 18,
+            "chainId": 534352,
+            "logoURI": "https://i.ibb.co/pj16FMm/image-42.png"
+        },
+        {
             "name": "DAI Stablecoin",
             "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
             "symbol": "DAI",
