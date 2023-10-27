@@ -76,6 +76,14 @@
             "decimals": 6,
             "chainId": 534352,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+        },
+        {
+            "name": "Gary Gensler Inu",
+            "address": "0xE9892888D527a24B0Ac964b96A9b9A6207fcdaa3",
+            "symbol": "GG",
+            "decimals": 18,
+            "chainId": 534352,
+            "logoURI": "https://i.ibb.co/QnKKRqd/IMG-4318.jpg"
         }
     ]
   }
