@@ -110,6 +110,25 @@
          "lpName": "aETH-USDC",
          "rewardToken":"0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
          "pair":"0xcb463e993418a93A2230f2Ea0634b4633778220B"
+      },
+      {
+         "tokens":[
+            "0xE9892888D527a24B0Ac964b96A9b9A6207fcdaa3",
+            "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4"
+         ],
+         "stakingRewardAddress":"0xfE2F50f8453F4d2a034957EA23A0b71E0dA6cA51",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+         "rate": 0,
+         "rewardsRatio1": 1,
+         "rewardsRatio2": 0,
+         "voteable": false,
+         "poolPid": 7,
+         "lpName": "GG-USDC",
+         "rewardToken":"0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
+         "pair":"0xB3714005d28ad34A0839ea4d39A02E882E0D1455"
       }
    ],
    "closed":[
