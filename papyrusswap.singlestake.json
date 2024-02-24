@@ -16,7 +16,7 @@
     {
       "token": "0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
       "stakingRewardAddress": "0x6C02537d579C114A6f06699d9dcd0053800e7170",
-      "ended": false,
+      "ended": true,
       "lp": "",
       "name": "",
       "depFee": "0",
@@ -29,7 +29,7 @@
     {
       "token": "0xf4BA885557b8E0dCE70e14CCD1a4A73E4a09793e",
       "stakingRewardAddress": "0x4238c696077210eb3470E126a40B3CCD1C887aeA",
-      "ended": false,
+      "ended": true,
       "lp": "",
       "name": "",
       "depFee": "5",
@@ -42,7 +42,7 @@
     {
       "token": "0xf4BA885557b8E0dCE70e14CCD1a4A73E4a09793e",
       "stakingRewardAddress": "0xc3748f91291f83e35936c3FefC38868080903C6b",
-      "ended": false,
+      "ended": true,
       "lp": "",
       "name": "",
       "depFee": "2",
